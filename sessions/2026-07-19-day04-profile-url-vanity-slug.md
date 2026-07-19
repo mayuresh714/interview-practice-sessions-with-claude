@@ -1,5 +1,5 @@
 ---
-date: 2026-07-08
+date: 2026-07-19
 day: 04
 type: system-design
 company_archetype: general
